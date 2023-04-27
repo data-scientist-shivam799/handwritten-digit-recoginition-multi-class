@@ -1,1 +1,1 @@
-# handwritten-digit-recoginition-multi-class-
+# handwritten-digit-recoginition-multi-class
